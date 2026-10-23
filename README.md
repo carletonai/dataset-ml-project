@@ -4,9 +4,12 @@ Dataset ML Project
 
 - RL : https://instadeepai.github.io/og-marl/#dataset-api
 
-  - Chess
-  - Clash of Clans
-  - Clash Royale
+  - Chess (disqualify)
+  - Clash of Clans (no)
+  - Clash Royale (team 1)
+  - Balatro (team 1)
+  - Poker
+  - Atari
   - 
 
 
