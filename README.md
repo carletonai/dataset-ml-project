@@ -13,3 +13,8 @@ Dataset ML Project
   - researching data/stats data availability 
 
 
+- RL : https://instadeepai.github.io/og-marl/#dataset-api
+
+  - Chess
+  - Clash of Clans
+  - Clash Royale
